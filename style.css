@@ -1,0 +1,19 @@
+.body_background 
+{
+    background-color: greenyellow;
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+#Button {
+    background-color:lightskyblue;
+    color: white;
+    font-size: 60px;
+    border-radius: 30px;
+}
